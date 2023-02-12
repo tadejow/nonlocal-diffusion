@@ -15,3 +15,9 @@ $$u_t(x,t) = \int_\mathbb{R} J_\epsilon(x-y)u(y, t)dy - u(x, t) \quad (x,t) \in 
 
 $$u(x, 0) = u_0(x) \quad x \in \Omega$$
 
+## References
+---
+1. 
+2.
+3.
+
