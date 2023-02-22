@@ -1,7 +1,9 @@
 # Nonlocal-diffusion
 ---
 
-Welcome to the research repository for the nonlocal diffusion problems. We consider the following nonlocal diffusion problems
+Welcome to the research repository for the nonlocal diffusion problems.
+
+
 
 ## Nonlocal-Neumann-diffusion
 
